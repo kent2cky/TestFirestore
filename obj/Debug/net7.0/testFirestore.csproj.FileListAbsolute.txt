@@ -52,5 +52,4 @@
 /home/kenny/Desktop/devResources/testFirestore/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/kenny/Desktop/devResources/testFirestore/bin/Debug/net7.0/Newtonsoft.Json.dll
 /home/kenny/Desktop/devResources/testFirestore/bin/Debug/net7.0/System.Linq.Async.dll
-/home/kenny/Desktop/devResources/testFirestore/bin/Debug/net7.0/Google-Creds/send-me-global-prod-firebase-adminsdk-vduly-5e1ed70e6e.json
 /home/kenny/Desktop/devResources/testFirestore/bin/Debug/net7.0/Google-Creds/send-me-global-prod-4e6ceec97007.json

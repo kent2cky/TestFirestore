@@ -44,7 +44,7 @@ public class WeatherForecastController : ControllerBase
             {
                 adminAuth = FirebaseApp.Create(new AppOptions
                 {
-                    Credential = GoogleCredential.FromFile("/home/kenny/Desktop/devResources/testFirestore/Google-Creds/send-me-global-prod-4e6ceec97007.json"),
+                    Credential = GoogleCredential.FromFile("Google-Creds/send-me-global-prod-4e6ceec97007.json"),
                 }, "sendmeglobal");
             }
 
@@ -61,7 +61,7 @@ public class WeatherForecastController : ControllerBase
                 Disabled = false,
             };
 
-            // var userRecord = await auth.CreateUserAsync(args).ConfigureAwait(false);
+            var userRecord = await auth.CreateUserAsync(args).ConfigureAwait(false);
             // get the new users Uid 
             // Console.WriteLine($"{userRecord.Uid}");
 

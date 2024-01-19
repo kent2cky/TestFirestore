@@ -36,7 +36,7 @@ app.UseCors(
 
 FirebaseApp.Create(new AppOptions
 {
-    Credential = GoogleCredential.FromFile("/home/kenny/Desktop/devResources/testFirestore/Google-Creds/send-me-global-prod-4e6ceec97007.json"),
+    Credential = GoogleCredential.FromFile("Google-Creds/send-me-global-prod-4e6ceec97007.json"),
 });
 
 app.Run();
