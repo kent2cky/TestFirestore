@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WKplzrEyjnopz1uuvmUMuIoqUO/acKzZk7PKh5Pho8s=",
+  "Source": "testFirestore",
+  "BasePath": "_content/testFirestore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
